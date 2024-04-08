@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">An AI engineering student enrolled in double degree program</h3>
+<h1 align="center" style="color: #000000;">Hi 👋, I'm Lucas</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF9800&background=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=435&height=75&lines=An+AI+engineering+student+;enrolled+in+double+a+degree+program" alt="Typing SVG" /></a>
+</p>
 
 - 🔭 I’m currently working on **aaa**
 
