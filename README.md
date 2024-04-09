@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF9800&background=rgba(0,0,0,0.0)&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=An+AI+engineering+student+;enrolled+in+a+double+degree+program;INSA+Toulouse+x+ENSEEIHT" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on **aaa**
+- 🔭 I’m currently working on **Large Language Models and Promptengineering**
 
 - 🌱 I’m currently learning **hybrid AI - deep learning - cloud computing and big data - actuarial science**
 
